@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="final_project" id="24E2061B-B387-E6A8-E356-C241A582CE24" version="3.5">
+<createdBy>ASUS_302</createdBy>
+<createdTime>2021-04-12 15:10:32 UTC</createdTime>
+<ownerDesignName>final_project</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>24E2061B-B387-E6A8-E356-C241A582CE24</designId>
+</OSDM_Design>
